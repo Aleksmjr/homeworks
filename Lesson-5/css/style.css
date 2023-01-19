@@ -1,0 +1,19 @@
+body{
+  background: #f1f1f1;
+}
+
+a{
+  text-decoration:none;
+}
+h2,h3{
+  color: blue;
+}
+.underline{
+  text-decoration-line: underline;
+}
+.bold{
+  font-weight: bold;
+}
+.cursive{
+  font-style: italic;
+}

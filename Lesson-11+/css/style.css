@@ -1,0 +1,42 @@
+@font-face {
+	font-family: 'Bebas Neue';
+	src: url('..//fonts/BebasNeueRegular.woff2') format('woff2'),
+		url('..//fonts/BebasNeueRegular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+.text-box{
+	padding-top: 2rem;
+}
+
+.resault {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+
+.resault:nth-child(1) {
+	font-family: 'Open Sans',	sans-serif;
+}
+
+.resault:nth-child(4) {
+	font-family: 'Bebas Neue';
+}
+
+.resault:nth-child(7) {
+	font-family: 'Bad Script',	cursive;
+}
+
+.resault:nth-child(10) {
+	font-family: 'Lobster',	cursive;
+}
+
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}

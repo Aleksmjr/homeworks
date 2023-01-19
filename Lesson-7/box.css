@@ -1,0 +1,57 @@
+* {
+  box-sizing: border-box;
+}
+.container{
+  background: #FFF;
+  width: 406px;
+  height: 561px;  
+  }
+.box{
+  width: 301px;
+  height: 463px;
+  border: #E8E8E8 solid 1px;
+  margin-top: 5px;
+  margin-left: 10px;
+  }
+.tariff{
+  height: 16px;
+  margin-left: 89px;
+  margin-top: 62px;
+  color: #212121;
+  font-size: 16px;
+  margin-bottom: 35px;
+}
+.price{
+  text-align: center;
+  display: inline-block;
+  height: 36px;
+  width: 125px;
+  margin-left: 65px;
+  margin-bottom: 49px;
+  font-size: 48px;
+  color: #5BA2A9;
+ }
+.value{
+  display: inline-block;
+  width: 32px;
+  height: 17px;
+  margin-left: 13px;
+  font-size: 18px;
+  color: #5BA2A9;
+ }
+.description{
+  padding-bottom: 10px;
+  margin-left: 54px;
+  font-size: 14px;
+  color: #454545;
+ }
+.button{
+  width: 201px;
+  height: 55px;
+  margin-top: 46px;
+  margin-left: 49px;
+  background-color: #FFF;
+  color: #5A5A5A;
+  font-size: 16px;
+  border: 2px solid #E8E8E8;
+ }

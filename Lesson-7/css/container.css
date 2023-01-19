@@ -1,0 +1,54 @@
+*{
+  box-sizing:border-box;
+}
+body{
+  margin: 0;
+  padding-top: 5px;
+  padding-left: 10px;
+}
+.container{
+  width: 301px;
+  border: 1px solid #E8E8E8;
+  padding: 62px 46px 50px 49px ;
+  text-align: center;
+}
+.tariff {
+  margin: 0;
+  padding-bottom: 35px;
+  color: #212121;
+  font-size: 16px;
+}
+.price {
+  display: inline;
+  height: 36px;
+  font-size: 48px;
+  color: #5BA2A9;
+}
+.value {
+  display: inline;
+  height: 17px;
+  font-size: 18px;
+}
+.description {
+  margin: 0;
+  margin-top: 49px;
+  padding: 0px;
+  font-size: 14px;
+  color: #454545;
+  list-style: none;
+}
+.description li{
+  margin-bottom: 5px;
+}
+
+.button {
+  display: block;
+  width: 201px;
+  height: 55px;
+  margin-top: 46px;
+  background-color: #FFF;
+  text-transform: uppercase;
+  color: #5A5A5A;
+  font-size: 16px;
+  border: 2px solid #E8E8E8;
+}
